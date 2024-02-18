@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "ai-resume-builder"
+version = "0.1.0"
+description = "Leverage Gen AI to modify resumes and highlight experiences based on job description."
+authors = ["Zaaheda Islam <izaaheda99@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
